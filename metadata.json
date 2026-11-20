@@ -1,0 +1,6 @@
+{
+  "name": "Architecture + Landscape + Design Academy",
+  "description": "Complete beginner-to-professional interactive academy and studio platform for Residential Architecture, Landscape Architecture, Civil & Structural Engineering, MEP, Industrial Design, BIM, and 2D/3D CAD workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
